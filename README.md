@@ -13,8 +13,10 @@ Skills:  REACT / JS / HTML / CSS/JavaScript/PHP
                                     - 🌱 I’m currently learning laravel 
                                    - 💬 Ask me about anything about Web development 
   # Education and Qualification 
-  1.Fulbaria Royel Collwgr 
-  2.Bangamata Sheikh Fojilatunnesa Mujib Science And Technology University 
+ 1. B.Sc In Computer Science And Engineering 
+    Bangamata Sheikh Fojilatunnesa Mujib Science And Technology University 
+    jamalpur,Mymensingh,Dhaka,Bangladesh
+ 
 
 
  
