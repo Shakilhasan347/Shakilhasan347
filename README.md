@@ -7,14 +7,19 @@ I am a student of Bangamata Sheikh Fojilatunnesa Mujib Science And Technology Un
 
 Skills:  REACT / JS / HTML / CSS/JavaScript/PHP
 
-                             - 🔭 I’m currently working on web Development 
-                                - 🌱 I’m currently learning laravel 
+
+
+                                    - 🔭 I’m currently working on web Development 
+                                    - 🌱 I’m currently learning laravel 
                                    - 💬 Ask me about anything about Web development 
 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakilhasan347)  
+ 
+ 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shakilhasan347)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shakilhasan347)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -28,4 +33,4 @@ Skills:  REACT / JS / HTML / CSS/JavaScript/PHP
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Shakilhasan347)  
 
-![Profile views](https://gpvc.arturio.dev/Shakilhasan347)  
+  ![Profile views](https://gpvc.arturio.dev/Shakilhasan347)  
