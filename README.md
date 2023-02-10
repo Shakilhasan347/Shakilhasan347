@@ -12,7 +12,9 @@ Skills:  REACT / JS / HTML / CSS/JavaScript/PHP
                                     - 🔭 I’m currently working on web Development 
                                     - 🌱 I’m currently learning laravel 
                                    - 💬 Ask me about anything about Web development 
-  #Education and Qualification 
+  # Education and Qualification 
+  1.Fulbaria Royel Collwgr 
+  2.Bangamata Sheikh Fojilatunnesa Mujib Science And Technology University 
 
 
  
